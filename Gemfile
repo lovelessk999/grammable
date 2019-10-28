@@ -81,5 +81,6 @@ gem 'devise'
 gem 'carrierwave-aws'
 gem 'carrierwave', '~> 2.0'
 gem "figaro"
+gem "fog-aws"
 gem 'mini_magick'
 gem 'aws-sdk-rails'
