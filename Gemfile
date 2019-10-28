@@ -78,3 +78,8 @@ end
 
 gem 'simple_form'
 gem 'devise'
+gem 'carrierwave-aws'
+gem 'carrierwave', '~> 2.0'
+gem "figaro"
+gem 'mini_magick'
+gem 'aws-sdk-rails'
